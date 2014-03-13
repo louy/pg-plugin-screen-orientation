@@ -29,6 +29,6 @@
         </config-file>
 
         <source-file src="src/android/ScreenOrientation.java"
-                target-dir="com/tsukurusha/phonegap/plugins" />
+                target-dir="src/com/tsukurusha/phonegap/plugins" />
     </platform>
 </plugin>
